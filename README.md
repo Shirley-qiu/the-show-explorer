@@ -1,3 +1,8 @@
+# Project screenshots
+<img width="416" alt="image" src="https://github.com/Shirley-qiu/the-show-explorer/assets/46514410/9c33fd41-b304-4863-b227-3a511f45d119">
+<img width="415" alt="image" src="https://github.com/Shirley-qiu/the-show-explorer/assets/46514410/2e23a3bc-53b2-474f-906b-0267a399750c">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
